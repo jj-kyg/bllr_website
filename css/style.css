@@ -273,7 +273,7 @@ b {
 }
 .badge-custom-secondary {
   color: #fff;
-  background-color: rgb(176, 54, 76);
+  background-color: rgb(232, 73, 100);
 }
 .badge-custom-primary {
   color: #fff;
@@ -310,7 +310,7 @@ b {
   color: #01020c;
 }
 .color-secondary {
-  color: rgb(176, 54, 76);
+  color: rgb(232, 73, 100);
 }
 .white-bg {
   background: #ffffff;
@@ -375,14 +375,14 @@ b {
 }
 
 .secondary-btn {
-  background: rgb(176, 54, 76);
-  border-color: rgb(176, 54, 76);
+  background: rgb(232, 73, 100);
+  border-color: rgb(232, 73, 100);
   color: #ffffff;
 }
 .secondary-btn:hover {
-  border-color: rgb(176, 54, 76);
+  border-color: rgb(232, 73, 100);
   background: transparent;
-  color: rgb(176, 54, 76);
+  color: rgb(232, 73, 100);
   border-radius: 30px;
 }
 
@@ -491,7 +491,7 @@ select.form-control.has-value {
 
 .section-heading h2 span {
   font-weight: 700;
-  color: rgb(176, 54, 76);
+  color: rgb(100, 196, 181);
 }
 .opacity-6 {
   opacity: 0.6;
@@ -748,7 +748,7 @@ select.form-control.has-value {
 }
 .hero-content-left h1 span {
   font-weight: 700;
-  color: rgb(176, 54, 76);
+  color: rgb(100, 196, 181);
 }
 @media (min-width: 992px) {
   .hero-animation-img {
@@ -2106,7 +2106,7 @@ select.form-control.has-value {
   text-decoration: none;
 }
 .feature-tab-circle li a.active span {
-  background: #ed1c24;
+  background: rgb(232, 73, 100);
   color: #ffffff;
   border-color: #ebebeb !important;
 }
@@ -2675,7 +2675,7 @@ blockquote:before {
 }
 
 .footer-address li a {
-  color: rgb(176, 54, 76);
+  color: rgb(232, 73, 100);
   opacity: 0.8;
   text-decoration: none;
 }
